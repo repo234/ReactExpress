@@ -1,0 +1,30 @@
+
+  header{
+    background-color: pink;
+
+  }
+  .ArchiFont{
+    font-weight: bold;
+    font-family: "Architects Daughter", "Times New Roman", Times, serif;
+  }
+.DanFont{
+    font-weight: bold;
+    font-family: "Dancing Script", "Times New Roman", Times, serif;
+  }
+  footer{
+      background-color: pink;
+  }
+  li {
+    display: inline;
+  }
+  li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Dancing Script", "Times New Roman", Times, serif;
+  }
+  a:hover {
+    color: skyblue;
+  }
